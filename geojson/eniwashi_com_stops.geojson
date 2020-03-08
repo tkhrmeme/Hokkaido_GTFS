@@ -1,0 +1,2647 @@
+{
+ "type": "FeatureCollection",
+ "name": "GTFS stops",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.573668181725,
+     42.9218242613695
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000001",
+    "stop_name": "ＪＲ島松駅",
+    "stop_lat": 42.9218242613695,
+    "stop_lon": 141.573668181725,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.573668181725,
+     42.9218242613695
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000100000",
+    "stop_name": "ＪＲ島松駅",
+    "stop_lat": 42.9218242613695,
+    "stop_lon": 141.573668181725,
+    "zone_id": "Z000000",
+    "location_type": 0,
+    "parent_station": "S0137000001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.573668181725,
+     42.9218242613695
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000100001",
+    "stop_name": "ＪＲ島松駅",
+    "stop_lat": 42.9218242613695,
+    "stop_lon": 141.573668181725,
+    "zone_id": "Z000001",
+    "location_type": 0,
+    "parent_station": "S0137000001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581271836809,
+     42.9192205060176
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000002",
+    "stop_name": "島松東町",
+    "stop_lat": 42.9192205060176,
+    "stop_lon": 141.581271836809,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581271836809,
+     42.9192205060176
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000200000",
+    "stop_name": "島松東町",
+    "stop_lat": 42.9192205060176,
+    "stop_lon": 141.581271836809,
+    "zone_id": "Z000010",
+    "location_type": 0,
+    "parent_station": "S0137000002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.584709114092,
+     42.9178578645844
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000003",
+    "stop_name": "恵庭北高校",
+    "stop_lat": 42.9178578645844,
+    "stop_lon": 141.584709114092,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.584709114092,
+     42.9178578645844
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000300000",
+    "stop_name": "恵庭北高校",
+    "stop_lat": 42.9178578645844,
+    "stop_lon": 141.584709114092,
+    "zone_id": "Z000020",
+    "location_type": 0,
+    "parent_station": "S0137000003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58207076045602,
+     42.9109922334072
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000004",
+    "stop_name": "恵み野北１丁目",
+    "stop_lat": 42.9109922334072,
+    "stop_lon": 141.58207076045602,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58207076045602,
+     42.9109922334072
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000400000",
+    "stop_name": "恵み野北１丁目",
+    "stop_lat": 42.9109922334072,
+    "stop_lon": 141.58207076045602,
+    "zone_id": "Z000030",
+    "location_type": 0,
+    "parent_station": "S0137000004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58738290641,
+     42.9091001674617
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000005",
+    "stop_name": "恵み野北５丁目",
+    "stop_lat": 42.9091001674617,
+    "stop_lon": 141.58738290641,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58738290641,
+     42.9091001674617
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000500000",
+    "stop_name": "恵み野北５丁目",
+    "stop_lat": 42.9091001674617,
+    "stop_lon": 141.58738290641,
+    "zone_id": "Z000040",
+    "location_type": 0,
+    "parent_station": "S0137000005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.590542419791,
+     42.907937152602294
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000006",
+    "stop_name": "恵み野旭小学校",
+    "stop_lat": 42.907937152602294,
+    "stop_lon": 141.590542419791,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.590542419791,
+     42.907937152602294
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000600000",
+    "stop_name": "恵み野旭小学校",
+    "stop_lat": 42.907937152602294,
+    "stop_lon": 141.590542419791,
+    "zone_id": "Z000050",
+    "location_type": 0,
+    "parent_station": "S0137000006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.593840812524,
+     42.9067307420326
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000007",
+    "stop_name": "恵み野東７丁目",
+    "stop_lat": 42.9067307420326,
+    "stop_lon": 141.593840812524,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.593840812524,
+     42.9067307420326
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000700000",
+    "stop_name": "恵み野東７丁目",
+    "stop_lat": 42.9067307420326,
+    "stop_lon": 141.593840812524,
+    "zone_id": "Z000060",
+    "location_type": 0,
+    "parent_station": "S0137000007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.594500653403,
+     42.902963795362204
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000008",
+    "stop_name": "恵み野東４丁目",
+    "stop_lat": 42.902963795362204,
+    "stop_lon": 141.594500653403,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.594500653403,
+     42.902963795362204
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000800000",
+    "stop_name": "恵み野東４丁目",
+    "stop_lat": 42.902963795362204,
+    "stop_lon": 141.594500653403,
+    "zone_id": "Z000070",
+    "location_type": 0,
+    "parent_station": "S0137000008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591063512396,
+     42.9013666839303
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000009",
+    "stop_name": "恵み野南３丁目",
+    "stop_lat": 42.9013666839303,
+    "stop_lon": 141.591063512396,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591063512396,
+     42.9013666839303
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700000900000",
+    "stop_name": "恵み野南３丁目",
+    "stop_lat": 42.9013666839303,
+    "stop_lon": 141.591063512396,
+    "zone_id": "Z000080",
+    "location_type": 0,
+    "parent_station": "S0137000009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58818163903098,
+     42.905020756638706
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000010",
+    "stop_name": "恵み野中学校",
+    "stop_lat": 42.905020756638706,
+    "stop_lon": 141.58818163903098,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58818163903098,
+     42.905020756638706
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001000000",
+    "stop_name": "恵み野中学校",
+    "stop_lat": 42.905020756638706,
+    "stop_lon": 141.58818163903098,
+    "zone_id": "Z000090",
+    "location_type": 0,
+    "parent_station": "S0137000010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58536930265302,
+     42.906539642275895
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000011",
+    "stop_name": "図書館",
+    "stop_lat": 42.906539642275895,
+    "stop_lon": 141.58536930265302,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58536930265302,
+     42.906539642275895
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001100000",
+    "stop_name": "図書館",
+    "stop_lat": 42.906539642275895,
+    "stop_lon": 141.58536930265302,
+    "zone_id": "Z000100",
+    "location_type": 0,
+    "parent_station": "S0137000011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58144606772498,
+     42.9054459407305
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000012",
+    "stop_name": "恵み野西５丁目",
+    "stop_lat": 42.9054459407305,
+    "stop_lon": 141.58144606772498,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58144606772498,
+     42.9054459407305
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001200000",
+    "stop_name": "恵み野西５丁目",
+    "stop_lat": 42.9054459407305,
+    "stop_lon": 141.58144606772498,
+    "zone_id": "Z000110",
+    "location_type": 0,
+    "parent_station": "S0137000012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579987954606,
+     42.9032933677241
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000013",
+    "stop_name": "恵み野西４丁目",
+    "stop_lat": 42.9032933677241,
+    "stop_lon": 141.579987954606,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579987954606,
+     42.9032933677241
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001300000",
+    "stop_name": "恵み野西４丁目",
+    "stop_lat": 42.9032933677241,
+    "stop_lon": 141.579987954606,
+    "zone_id": "Z000120",
+    "location_type": 0,
+    "parent_station": "S0137000013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575127293533,
+     42.902286446077795
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000014",
+    "stop_name": "ＪＲ恵み野駅東口",
+    "stop_lat": 42.902286446077795,
+    "stop_lon": 141.575127293533,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575127293533,
+     42.902286446077795
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001400000",
+    "stop_name": "ＪＲ恵み野駅東口",
+    "stop_lat": 42.902286446077795,
+    "stop_lon": 141.575127293533,
+    "zone_id": "Z000130",
+    "location_type": 0,
+    "parent_station": "S0137000014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.578529842684,
+     42.901114755836
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000015",
+    "stop_name": "恵み野病院",
+    "stop_lat": 42.901114755836,
+    "stop_lon": 141.578529842684,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.578529842684,
+     42.901114755836
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001500000",
+    "stop_name": "恵み野病院",
+    "stop_lat": 42.901114755836,
+    "stop_lon": 141.578529842684,
+    "zone_id": "Z000140",
+    "location_type": 0,
+    "parent_station": "S0137000015"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581897626939,
+     42.9009325424852
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000016",
+    "stop_name": "恵み野南２丁目",
+    "stop_lat": 42.9009325424852,
+    "stop_lon": 141.581897626939,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581897626939,
+     42.9009325424852
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001600000",
+    "stop_name": "恵み野南２丁目",
+    "stop_lat": 42.9009325424852,
+    "stop_lon": 141.581897626939,
+    "zone_id": "Z000150",
+    "location_type": 0,
+    "parent_station": "S0137000016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.580682533605,
+     42.899118479182896
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000017",
+    "stop_name": "恵み野南１丁目",
+    "stop_lat": 42.899118479182896,
+    "stop_lon": 141.580682533605,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.580682533605,
+     42.899118479182896
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001700000",
+    "stop_name": "恵み野南１丁目",
+    "stop_lat": 42.899118479182896,
+    "stop_lon": 141.580682533605,
+    "zone_id": "Z000160",
+    "location_type": 0,
+    "parent_station": "S0137000017"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.582592222724,
+     42.896393109603
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000018",
+    "stop_name": "道と川の駅・中島公園",
+    "stop_lat": 42.896393109603,
+    "stop_lon": 141.582592222724,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.582592222724,
+     42.896393109603
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001800000",
+    "stop_name": "道と川の駅・中島公園",
+    "stop_lat": 42.896393109603,
+    "stop_lon": 141.582592222724,
+    "zone_id": "Z000170",
+    "location_type": 0,
+    "parent_station": "S0137000018"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581446593245,
+     42.894032231001894
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000019",
+    "stop_name": "中島会館",
+    "stop_lat": 42.894032231001894,
+    "stop_lon": 141.581446593245,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.581446593245,
+     42.894032231001894
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700001900000",
+    "stop_name": "中島会館",
+    "stop_lat": 42.894032231001894,
+    "stop_lon": 141.581446593245,
+    "zone_id": "Z000180",
+    "location_type": 0,
+    "parent_station": "S0137000019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.587418413031,
+     42.892001302542894
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000020",
+    "stop_name": "恵明中学校",
+    "stop_lat": 42.892001302542894,
+    "stop_lon": 141.587418413031,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.587418413031,
+     42.892001302542894
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002000000",
+    "stop_name": "恵明中学校",
+    "stop_lat": 42.892001302542894,
+    "stop_lon": 141.587418413031,
+    "zone_id": "Z000190",
+    "location_type": 0,
+    "parent_station": "S0137000020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591619592896,
+     42.8889635064064
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000021",
+    "stop_name": "文教大学",
+    "stop_lat": 42.8889635064064,
+    "stop_lon": 141.591619592896,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591619592896,
+     42.8889635064064
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002100000",
+    "stop_name": "文教大学",
+    "stop_lat": 42.8889635064064,
+    "stop_lon": 141.591619592896,
+    "zone_id": "Z000200",
+    "location_type": 0,
+    "parent_station": "S0137000021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59842450137302,
+     42.8907429488285
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000022",
+    "stop_name": "黄金南６丁目",
+    "stop_lat": 42.8907429488285,
+    "stop_lon": 141.59842450137302,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59842450137302,
+     42.8907429488285
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002200000",
+    "stop_name": "黄金南６丁目",
+    "stop_lat": 42.8907429488285,
+    "stop_lon": 141.59842450137302,
+    "zone_id": "Z000210",
+    "location_type": 0,
+    "parent_station": "S0137000022"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59693173565398,
+     42.8871408774782
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000023",
+    "stop_name": "黄金ふれあいセンター",
+    "stop_lat": 42.8871408774782,
+    "stop_lon": 141.59693173565398,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59693173565398,
+     42.8871408774782
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002300000",
+    "stop_name": "黄金ふれあいセンター",
+    "stop_lat": 42.8871408774782,
+    "stop_lon": 141.59693173565398,
+    "zone_id": "Z000220",
+    "location_type": 0,
+    "parent_station": "S0137000023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.594918152677,
+     42.884129011679605
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000024",
+    "stop_name": "黄金中通",
+    "stop_lat": 42.884129011679605,
+    "stop_lon": 141.594918152677,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.594918152677,
+     42.884129011679605
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002400000",
+    "stop_name": "黄金中通",
+    "stop_lat": 42.884129011679605,
+    "stop_lon": 141.594918152677,
+    "zone_id": "Z000230",
+    "location_type": 0,
+    "parent_station": "S0137000024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591793460942,
+     42.8830700425898
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000025",
+    "stop_name": "黄金郵便局",
+    "stop_lat": 42.8830700425898,
+    "stop_lon": 141.591793460942,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.591793460942,
+     42.8830700425898
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002500000",
+    "stop_name": "黄金郵便局",
+    "stop_lat": 42.8830700425898,
+    "stop_lon": 141.591793460942,
+    "zone_id": "Z000240",
+    "location_type": 0,
+    "parent_station": "S0137000025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.586759134839,
+     42.8835473341578
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000026",
+    "stop_name": "ＪＲ恵庭駅東口",
+    "stop_lat": 42.8835473341578,
+    "stop_lon": 141.586759134839,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.586759134839,
+     42.8835473341578
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002600000",
+    "stop_name": "ＪＲ恵庭駅東口",
+    "stop_lat": 42.8835473341578,
+    "stop_lon": 141.586759134839,
+    "zone_id": "Z000250",
+    "location_type": 0,
+    "parent_station": "S0137000026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58696767187,
+     42.8787475039711
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000027",
+    "stop_name": "住吉４丁目",
+    "stop_lat": 42.8787475039711,
+    "stop_lon": 141.58696767187,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58696767187,
+     42.8787475039711
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002700000",
+    "stop_name": "住吉４丁目",
+    "stop_lat": 42.8787475039711,
+    "stop_lon": 141.58696767187,
+    "zone_id": "Z000260",
+    "location_type": 0,
+    "parent_station": "S0137000027"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.589675881803,
+     42.8765429259681
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000028",
+    "stop_name": "和光会館",
+    "stop_lat": 42.8765429259681,
+    "stop_lon": 141.589675881803,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.589675881803,
+     42.8765429259681
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002800000",
+    "stop_name": "和光会館",
+    "stop_lat": 42.8765429259681,
+    "stop_lon": 141.589675881803,
+    "zone_id": "Z000270",
+    "location_type": 0,
+    "parent_station": "S0137000028"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.592835456327,
+     42.8740519281517
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000029",
+    "stop_name": "消防署南出張所",
+    "stop_lat": 42.8740519281517,
+    "stop_lon": 141.592835456327,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.592835456327,
+     42.8740519281517
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700002900000",
+    "stop_name": "消防署南出張所",
+    "stop_lat": 42.8740519281517,
+    "stop_lon": 141.592835456327,
+    "zone_id": "Z000280",
+    "location_type": 0,
+    "parent_station": "S0137000029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59030111564,
+     42.870337003456505
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000030",
+    "stop_name": "森永乳業",
+    "stop_lat": 42.870337003456505,
+    "stop_lon": 141.59030111564,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.59030111564,
+     42.870337003456505
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003000000",
+    "stop_name": "森永乳業",
+    "stop_lat": 42.870337003456505,
+    "stop_lon": 141.59030111564,
+    "zone_id": "Z000290",
+    "location_type": 0,
+    "parent_station": "S0137000030"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.587419384944,
+     42.870892449265206
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000031",
+    "stop_name": "家具の中西",
+    "stop_lat": 42.870892449265206,
+    "stop_lon": 141.587419384944,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.587419384944,
+     42.870892449265206
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003100000",
+    "stop_name": "家具の中西",
+    "stop_lat": 42.870892449265206,
+    "stop_lon": 141.587419384944,
+    "zone_id": "Z000300",
+    "location_type": 0,
+    "parent_station": "S0137000031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.584225118656,
+     42.8727845522005
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000032",
+    "stop_name": "前島歯科医院",
+    "stop_lat": 42.8727845522005,
+    "stop_lon": 141.584225118656,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.584225118656,
+     42.8727845522005
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003200000",
+    "stop_name": "前島歯科医院",
+    "stop_lat": 42.8727845522005,
+    "stop_lon": 141.584225118656,
+    "zone_id": "Z000310",
+    "location_type": 0,
+    "parent_station": "S0137000032"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58106576392998,
+     42.87050175507329
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000033",
+    "stop_name": "恵庭公園・駒場４丁目",
+    "stop_lat": 42.87050175507329,
+    "stop_lon": 141.58106576392998,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58106576392998,
+     42.87050175507329
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003300000",
+    "stop_name": "恵庭公園・駒場４丁目",
+    "stop_lat": 42.87050175507329,
+    "stop_lon": 141.58106576392998,
+    "zone_id": "Z000320",
+    "location_type": 0,
+    "parent_station": "S0137000033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.576031412249,
+     42.8715345427802
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000034",
+    "stop_name": "白樺町２丁目",
+    "stop_lat": 42.8715345427802,
+    "stop_lon": 141.576031412249,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.576031412249,
+     42.8715345427802
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003400000",
+    "stop_name": "白樺町２丁目",
+    "stop_lat": 42.8715345427802,
+    "stop_lon": 141.576031412249,
+    "zone_id": "Z000330",
+    "location_type": 0,
+    "parent_station": "S0137000034"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57433023978,
+     42.8699027431591
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000035",
+    "stop_name": "白樺町１丁目",
+    "stop_lat": 42.8699027431591,
+    "stop_lon": 141.57433023978,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57433023978,
+     42.8699027431591
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003500000",
+    "stop_name": "白樺町１丁目",
+    "stop_lat": 42.8699027431591,
+    "stop_lon": 141.57433023978,
+    "zone_id": "Z000340",
+    "location_type": 0,
+    "parent_station": "S0137000035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.572663843799,
+     42.8670297574592
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000036",
+    "stop_name": "恵庭南高校",
+    "stop_lat": 42.8670297574592,
+    "stop_lon": 141.572663843799,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.572663843799,
+     42.8670297574592
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003600000",
+    "stop_name": "恵庭南高校",
+    "stop_lat": 42.8670297574592,
+    "stop_lon": 141.572663843799,
+    "zone_id": "Z000350",
+    "location_type": 0,
+    "parent_station": "S0137000036"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.569573461776,
+     42.8748674068252
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000037",
+    "stop_name": "日の出団地",
+    "stop_lat": 42.8748674068252,
+    "stop_lon": 141.569573461776,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.569573461776,
+     42.8748674068252
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003700000",
+    "stop_name": "日の出団地",
+    "stop_lat": 42.8748674068252,
+    "stop_lon": 141.569573461776,
+    "zone_id": "Z000360",
+    "location_type": 0,
+    "parent_station": "S0137000037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568253974241,
+     42.8781830013613
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000038",
+    "stop_name": "川沿大通",
+    "stop_lat": 42.8781830013613,
+    "stop_lon": 141.568253974241,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568253974241,
+     42.8781830013613
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003800000",
+    "stop_name": "川沿大通",
+    "stop_lat": 42.8781830013613,
+    "stop_lon": 141.568253974241,
+    "zone_id": "Z000370",
+    "location_type": 0,
+    "parent_station": "S0137000038"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.571864676774,
+     42.880543923016205
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000039",
+    "stop_name": "ビッグハウス",
+    "stop_lat": 42.880543923016205,
+    "stop_lon": 141.571864676774,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.571864676774,
+     42.880543923016205
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700003900000",
+    "stop_name": "ビッグハウス",
+    "stop_lat": 42.880543923016205,
+    "stop_lon": 141.571864676774,
+    "zone_id": "Z000380",
+    "location_type": 0,
+    "parent_station": "S0137000039"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57377424440398,
+     42.880457160095794
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000040",
+    "stop_name": "えにわ市民プラザ",
+    "stop_lat": 42.880457160095794,
+    "stop_lon": 141.57377424440398,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57377424440398,
+     42.880457160095794
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004000000",
+    "stop_name": "えにわ市民プラザ",
+    "stop_lat": 42.880457160095794,
+    "stop_lon": 141.57377424440398,
+    "zone_id": "Z000390",
+    "location_type": 0,
+    "parent_station": "S0137000040"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575614428905,
+     42.879163927786
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000041",
+    "stop_name": "恵庭シティホール",
+    "stop_lat": 42.879163927786,
+    "stop_lon": 141.575614428905,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575614428905,
+     42.879163927786
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004100000",
+    "stop_name": "恵庭シティホール",
+    "stop_lat": 42.879163927786,
+    "stop_lon": 141.575614428905,
+    "zone_id": "Z000400",
+    "location_type": 0,
+    "parent_station": "S0137000041"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57860036837099,
+     42.877506171146
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000042",
+    "stop_name": "泉町",
+    "stop_lat": 42.877506171146,
+    "stop_lon": 141.57860036837099,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57860036837099,
+     42.877506171146
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004200000",
+    "stop_name": "泉町",
+    "stop_lat": 42.877506171146,
+    "stop_lon": 141.57860036837099,
+    "zone_id": "Z000410",
+    "location_type": 0,
+    "parent_station": "S0137000042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58228051038,
+     42.879849734759205
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000043",
+    "stop_name": "緑町・えにあす",
+    "stop_lat": 42.879849734759205,
+    "stop_lon": 141.58228051038,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58228051038,
+     42.879849734759205
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004300000",
+    "stop_name": "緑町・えにあす",
+    "stop_lat": 42.879849734759205,
+    "stop_lon": 141.58228051038,
+    "zone_id": "Z000420",
+    "location_type": 0,
+    "parent_station": "S0137000043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58700223615,
+     42.882115199919504
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000044",
+    "stop_name": "ＪＲ恵庭駅西口",
+    "stop_lat": 42.882115199919504,
+    "stop_lon": 141.58700223615,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.58700223615,
+     42.882115199919504
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004400000",
+    "stop_name": "ＪＲ恵庭駅西口",
+    "stop_lat": 42.882115199919504,
+    "stop_lon": 141.58700223615,
+    "zone_id": "Z000430",
+    "location_type": 0,
+    "parent_station": "S0137000044"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.583148402733,
+     42.8818287049137
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000045",
+    "stop_name": "みどりのクリニック",
+    "stop_lat": 42.8818287049137,
+    "stop_lon": 141.583148402733,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.583148402733,
+     42.8818287049137
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004500000",
+    "stop_name": "みどりのクリニック",
+    "stop_lat": 42.8818287049137,
+    "stop_lon": 141.583148402733,
+    "zone_id": "Z000440",
+    "location_type": 0,
+    "parent_station": "S0137000045"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.577836291547,
+     42.8829656432955
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000046",
+    "stop_name": "市役所・市民会館［恵庭市］",
+    "stop_lat": 42.8829656432955,
+    "stop_lon": 141.577836291547,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.577836291547,
+     42.8829656432955
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004600000",
+    "stop_name": "市役所・市民会館［恵庭市］",
+    "stop_lat": 42.8829656432955,
+    "stop_lon": 141.577836291547,
+    "zone_id": "Z000450",
+    "location_type": 0,
+    "parent_station": "S0137000046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579086043075,
+     42.8861076901611
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000047",
+    "stop_name": "恵庭第一病院",
+    "stop_lat": 42.8861076901611,
+    "stop_lon": 141.579086043075,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579086043075,
+     42.8861076901611
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004700000",
+    "stop_name": "恵庭第一病院",
+    "stop_lat": 42.8861076901611,
+    "stop_lon": 141.579086043075,
+    "zone_id": "Z000460",
+    "location_type": 0,
+    "parent_station": "S0137000047"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.574155737912,
+     42.8895620956676
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000048",
+    "stop_name": "有明町２丁目",
+    "stop_lat": 42.8895620956676,
+    "stop_lon": 141.574155737912,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.574155737912,
+     42.8895620956676
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004800000",
+    "stop_name": "有明町２丁目",
+    "stop_lat": 42.8895620956676,
+    "stop_lon": 141.574155737912,
+    "zone_id": "Z000470",
+    "location_type": 0,
+    "parent_station": "S0137000048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57238512916402,
+     42.88787821707071
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000049",
+    "stop_name": "有明団地",
+    "stop_lat": 42.88787821707071,
+    "stop_lon": 141.57238512916402,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57238512916402,
+     42.88787821707071
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700004900000",
+    "stop_name": "有明団地",
+    "stop_lat": 42.88787821707071,
+    "stop_lon": 141.57238512916402,
+    "zone_id": "Z000480",
+    "location_type": 0,
+    "parent_station": "S0137000049"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.570336735333,
+     42.88685398528771
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000050",
+    "stop_name": "豊栄神社・かしわのもり",
+    "stop_lat": 42.88685398528771,
+    "stop_lon": 141.570336735333,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.570336735333,
+     42.88685398528771
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005000000",
+    "stop_name": "豊栄神社・かしわのもり",
+    "stop_lat": 42.88685398528771,
+    "stop_lon": 141.570336735333,
+    "zone_id": "Z000490",
+    "location_type": 0,
+    "parent_station": "S0137000050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.565024748833,
+     42.8852828799924
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000051",
+    "stop_name": "恵庭中学校",
+    "stop_lat": 42.8852828799924,
+    "stop_lon": 141.565024748833,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.565024748833,
+     42.8852828799924
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005100000",
+    "stop_name": "恵庭中学校",
+    "stop_lat": 42.8852828799924,
+    "stop_lon": 141.565024748833,
+    "zone_id": "Z000500",
+    "location_type": 0,
+    "parent_station": "S0137000051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.562594382729,
+     42.8855519059874
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000052",
+    "stop_name": "セイコーマート文京店",
+    "stop_lat": 42.8855519059874,
+    "stop_lon": 141.562594382729,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.562594382729,
+     42.8855519059874
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005200000",
+    "stop_name": "セイコーマート文京店",
+    "stop_lat": 42.8855519059874,
+    "stop_lon": 141.562594382729,
+    "zone_id": "Z000510",
+    "location_type": 0,
+    "parent_station": "S0137000052"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.563045434406,
+     42.8920616342481
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000053",
+    "stop_name": "北恵庭駐屯地",
+    "stop_lat": 42.8920616342481,
+    "stop_lon": 141.563045434406,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.563045434406,
+     42.8920616342481
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005300000",
+    "stop_name": "北恵庭駐屯地",
+    "stop_lat": 42.8920616342481,
+    "stop_lon": 141.563045434406,
+    "zone_id": "Z000520",
+    "location_type": 0,
+    "parent_station": "S0137000053"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.565579894584,
+     42.8931813504194
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000054",
+    "stop_name": "香華殿",
+    "stop_lat": 42.8931813504194,
+    "stop_lon": 141.565579894584,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.565579894584,
+     42.8931813504194
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005400000",
+    "stop_name": "香華殿",
+    "stop_lat": 42.8931813504194,
+    "stop_lon": 141.565579894584,
+    "zone_id": "Z000530",
+    "location_type": 0,
+    "parent_station": "S0137000054"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568878167428,
+     42.894578828000796
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000055",
+    "stop_name": "柏陽町３丁目",
+    "stop_lat": 42.894578828000796,
+    "stop_lon": 141.568878167428,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568878167428,
+     42.894578828000796
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005500000",
+    "stop_name": "柏陽町３丁目",
+    "stop_lat": 42.894578828000796,
+    "stop_lon": 141.568878167428,
+    "zone_id": "Z000540",
+    "location_type": 0,
+    "parent_station": "S0137000055"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57123901253001,
+     42.89609780399
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000056",
+    "stop_name": "後藤歯科医院",
+    "stop_lat": 42.89609780399,
+    "stop_lon": 141.57123901253001,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57123901253001,
+     42.89609780399
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005600000",
+    "stop_name": "後藤歯科医院",
+    "stop_lat": 42.89609780399,
+    "stop_lon": 141.57123901253001,
+    "zone_id": "Z000550",
+    "location_type": 0,
+    "parent_station": "S0137000056"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.569919579345,
+     42.8982329692311
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000057",
+    "stop_name": "柏陽会館",
+    "stop_lat": 42.8982329692311,
+    "stop_lon": 141.569919579345,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.569919579345,
+     42.8982329692311
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005700000",
+    "stop_name": "柏陽会館",
+    "stop_lat": 42.8982329692311,
+    "stop_lon": 141.569919579345,
+    "zone_id": "Z000560",
+    "location_type": 0,
+    "parent_station": "S0137000057"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.574050987637,
+     42.9024253013145
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000058",
+    "stop_name": "ＪＲ恵み野駅西口",
+    "stop_lat": 42.9024253013145,
+    "stop_lon": 141.574050987637,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.574050987637,
+     42.9024253013145
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005800000",
+    "stop_name": "ＪＲ恵み野駅西口",
+    "stop_lat": 42.9024253013145,
+    "stop_lon": 141.574050987637,
+    "zone_id": "Z000570",
+    "location_type": 0,
+    "parent_station": "S0137000058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.573148130569,
+     42.9057756216361
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000059",
+    "stop_name": "フレスポ恵み野",
+    "stop_lat": 42.9057756216361,
+    "stop_lon": 141.573148130569,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.573148130569,
+     42.9057756216361
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700005900000",
+    "stop_name": "フレスポ恵み野",
+    "stop_lat": 42.9057756216361,
+    "stop_lon": 141.573148130569,
+    "zone_id": "Z000580",
+    "location_type": 0,
+    "parent_station": "S0137000059"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.572279715892,
+     42.915140924193004
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000060",
+    "stop_name": "島松寿町２丁目",
+    "stop_lat": 42.915140924193004,
+    "stop_lon": 141.572279715892,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.572279715892,
+     42.915140924193004
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006000000",
+    "stop_name": "島松寿町２丁目",
+    "stop_lat": 42.915140924193004,
+    "stop_lon": 141.572279715892,
+    "zone_id": "Z000590",
+    "location_type": 0,
+    "parent_station": "S0137000060"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.570543569117,
+     42.9190467261001
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000061",
+    "stop_name": "島松寿町１丁目",
+    "stop_lat": 42.9190467261001,
+    "stop_lon": 141.570543569117,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.570543569117,
+     42.9190467261001
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006100000",
+    "stop_name": "島松寿町１丁目",
+    "stop_lat": 42.9190467261001,
+    "stop_lon": 141.570543569117,
+    "zone_id": "Z000600",
+    "location_type": 0,
+    "parent_station": "S0137000061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568391042047,
+     42.9174843556133
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000062",
+    "stop_name": "寿団地",
+    "stop_lat": 42.9174843556133,
+    "stop_lon": 141.568391042047,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568391042047,
+     42.9174843556133
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006200000",
+    "stop_name": "寿団地",
+    "stop_lat": 42.9174843556133,
+    "stop_lon": 141.568391042047,
+    "zone_id": "Z000610",
+    "location_type": 0,
+    "parent_station": "S0137000062"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568946709723,
+     42.91404723295621
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000063",
+    "stop_name": "島松寿町南",
+    "stop_lat": 42.91404723295621,
+    "stop_lon": 141.568946709723,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.568946709723,
+     42.91404723295621
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006300000",
+    "stop_name": "島松寿町南",
+    "stop_lat": 42.91404723295621,
+    "stop_lon": 141.568946709723,
+    "zone_id": "Z000620",
+    "location_type": 0,
+    "parent_station": "S0137000063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575543261804,
+     42.9167033140841
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000064",
+    "stop_name": "島松仲町",
+    "stop_lat": 42.9167033140841,
+    "stop_lon": 141.575543261804,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.575543261804,
+     42.9167033140841
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006400000",
+    "stop_name": "島松仲町",
+    "stop_lat": 42.9167033140841,
+    "stop_lon": 141.575543261804,
+    "zone_id": "Z000630",
+    "location_type": 0,
+    "parent_station": "S0137000064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.577174962026,
+     42.919064201174706
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000065",
+    "stop_name": "島松東町３丁目",
+    "stop_lat": 42.919064201174706,
+    "stop_lon": 141.577174962026,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.577174962026,
+     42.919064201174706
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006500000",
+    "stop_name": "島松東町３丁目",
+    "stop_lat": 42.919064201174706,
+    "stop_lon": 141.577174962026,
+    "zone_id": "Z000640",
+    "location_type": 0,
+    "parent_station": "S0137000065"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579119108722,
+     42.9220239879975
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000066",
+    "stop_name": "ラルズマート島松店",
+    "stop_lat": 42.9220239879975,
+    "stop_lon": 141.579119108722,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.579119108722,
+     42.9220239879975
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006600000",
+    "stop_name": "ラルズマート島松店",
+    "stop_lat": 42.9220239879975,
+    "stop_lon": 141.579119108722,
+    "zone_id": "Z000650",
+    "location_type": 0,
+    "parent_station": "S0137000066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.580681373464,
+     42.9243154368579
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000067",
+    "stop_name": "本町・旭町",
+    "stop_lat": 42.9243154368579,
+    "stop_lon": 141.580681373464,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.580681373464,
+     42.9243154368579
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006700000",
+    "stop_name": "本町・旭町",
+    "stop_lat": 42.9243154368579,
+    "stop_lon": 141.580681373464,
+    "zone_id": "Z000660",
+    "location_type": 0,
+    "parent_station": "S0137000067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57720941321,
+     42.92488823161229
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000068",
+    "stop_name": "島松公民館",
+    "stop_lat": 42.92488823161229,
+    "stop_lon": 141.57720941321,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57720941321,
+     42.92488823161229
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006800000",
+    "stop_name": "島松公民館",
+    "stop_lat": 42.92488823161229,
+    "stop_lon": 141.57720941321,
+    "zone_id": "Z000670",
+    "location_type": 0,
+    "parent_station": "S0137000068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57637620942302,
+     42.92357759335621
+    ]
+   },
+   "properties": {
+    "stop_id": "S0137000069",
+    "stop_name": "島松本町２丁目",
+    "stop_lat": 42.92357759335621,
+    "stop_lon": 141.57637620942302,
+    "zone_id": "0",
+    "location_type": 1,
+    "parent_station": NaN
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.57637620942302,
+     42.92357759335621
+    ]
+   },
+   "properties": {
+    "stop_id": "S013700006900000",
+    "stop_name": "島松本町２丁目",
+    "stop_lat": 42.92357759335621,
+    "stop_lon": 141.57637620942302,
+    "zone_id": "Z000680",
+    "location_type": 0,
+    "parent_station": "S0137000069"
+   }
+  }
+ ]
+}
